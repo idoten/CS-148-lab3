@@ -4,7 +4,7 @@
         <img alt="calvin and hobbes has influenced my snowman making." src="images/snowmen.jpg">
         <figcaption>Snowmen observing an accident.</figcaption>
     </figure>
-    <h1>Lab2 CS148</h1>
+    <h1>Lab3 CS148</h1>
     <h2>Navigation</h2>
 </header>
 <!-- %%%%%%%%%%%%%%%%%%%%% Ends Page header   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
